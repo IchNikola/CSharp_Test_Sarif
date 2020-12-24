@@ -25,7 +25,7 @@
           "locations": [
             {
               "physicalLocation": {
-                "artifactLocation": { "uri": "C:/Users/mironov/source/repos/TestSarif/TestSarif/Program.cs"},
+                "artifactLocation": { "uri": "TestSarif/Program.cs"},
                 "region": { "startLine": 20, "endLine": 20, "startColumn": 1, "endColumn": 2147483647 }
               }
             }
